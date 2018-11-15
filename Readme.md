@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/SparklineInGrid/Form1.cs) (VB: [Form1.vb](./VB/SparklineInGrid/Form1.vb))
+<!-- default file list end -->
 # How to show sparklines in a grid
 
 
